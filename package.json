@@ -1,6 +1,6 @@
 {
   "name": "@j25bender/gen-rando",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random generator",
   "main": "index.js",
   "scripts": {
